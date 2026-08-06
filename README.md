@@ -19,6 +19,7 @@ I enjoy turning ideas into real-world solutions using React, Laravel, PHP, and M
 - 📚 Always improving my problem-solving and software engineering skills
 - 🌍 Looking for **international opportunities**
 - ⚡ Fun fact: I enjoy transforming ideas into complete web applications.
+-  🤖 I leverage AI-powered development tools to improve productivity and software quality.
 
 ---
 
