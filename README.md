@@ -117,18 +117,16 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/naoufal-sahry-835b77347" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Naoufal%20Sahry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/naoufal-sahry-835b77347">
-LinkedIn
-</a>
-
-<br>
-
-📧 Email: **nawfalsahri@gmail.com**
-
+  <a href="mailto:nawfalsahri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
