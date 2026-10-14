@@ -13,13 +13,13 @@ I enjoy turning ideas into real-world solutions using React, Laravel, PHP, and M
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Web Developer specialized in **React** & **Laravel**
+- 💻 Full-Stack Web Developer focused on **React** and **Laravel**
 - 🌱 Currently learning **Advanced Laravel, Deployment, and System Design**
 - 🎯 Interested in building real-world web applications and scalable REST APIs
 - 📚 Always improving my problem-solving and software engineering skills
 - 🌍 Looking for **international opportunities**
-- ⚡ Fun fact: I enjoy transforming ideas into complete web applications.
--  🤖 I leverage AI-powered development tools to improve productivity and software quality.
+- ⚡ I enjoy transforming ideas into complete web applications.
+- 🤖 I use AI-powered development tools to support my development workflow.
 
 ---
 
@@ -72,9 +72,7 @@ A full-stack web application that simulates a real-world venue booking marketpla
 
 React • Laravel • PHP • MySQL • Reverb • REST API
 
-> 🔗 GitHub: *Coming Soon*
-
-> 🌐 Live Demo: *Coming Soon*
+> 🔗 **GitHub Repository:** [Naoufal206/VenueEase](https://github.com/Naoufal206/VenueEase)
 
 ---
 
@@ -86,17 +84,15 @@ A full-stack job marketplace platform with role-based authentication, job manage
 
 React • Laravel • MySQL
 
-> 🔗 GitHub: *Coming Soon*
-
-> 🌐 Live Demo: *Coming Soon*
+> 🔗 **GitHub Repository:** [Naoufal206/JobFinder_Project](https://github.com/Naoufal206/JobFinder_Project)
 
 ---
 
 ## 🌐 Portfolio Website
 
-A modern portfolio showcasing my projects, technical skills, and development journey.
+A portfolio showcasing my projects, technical skills, and development journey. The website is currently in development.
 
-> 🚧 Currently in development
+> 🔗 **GitHub Repository:** [naoufal-portfolio](https://github.com/Naoufal206/naoufal-portfolio)
 
 ---
 
