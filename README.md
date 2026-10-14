@@ -9,15 +9,10 @@ I'm a Full-Stack Web Developer from Morocco 🇲🇦 passionate about building m
 I enjoy turning ideas into real-world solutions using React, Laravel, PHP, and MySQL while continuously learning new technologies and improving my development skills.
 </p>
 
----
 
-## 🚀 About Me
 
-- 💻 Full-Stack Web Developer focused on **React** and **Laravel**
-- 🌱 Currently learning **Advanced Laravel, Deployment, and System Design**
 - 🎯 Interested in building real-world web applications and scalable REST APIs
 - 📚 Always improving my problem-solving and software engineering skills
-- 🌍 Looking for **international opportunities**
 - ⚡ I enjoy transforming ideas into complete web applications.
 - 🤖 I use AI-powered development tools to support my development workflow.
 
