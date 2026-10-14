@@ -103,16 +103,7 @@ A portfolio showcasing my projects, technical skills, and development journey. T
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoufal206&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
 
-# 🌱 Currently Learning
-
-- Advanced Laravel
-- Deployment (Vercel & Render)
-- REST API Best Practices
-- System Design Fundamentals
-
----
 
 ## 🤝 Connect With Me
 
